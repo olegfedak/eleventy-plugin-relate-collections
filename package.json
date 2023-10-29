@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-relate-collections",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Establish and maintain connections between Eleventy collections, simplifying content relationships for developers.",
   "main": "index.js",
   "scripts": {
