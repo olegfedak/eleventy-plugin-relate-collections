@@ -1,0 +1,33 @@
+{
+  "name": "eleventy-plugin-relate-collections",
+  "version": "1.0.0",
+  "description": "Establish and maintain connections between Eleventy collections, simplifying content relationships for developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegfedak/eleventy-plugin-relate-collections.git"
+  },
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/user?u=14658701"
+    }
+  ],
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "eleventy-plugin",
+    "related",
+    "relate-collections",
+    "relate-content"
+  ],
+  "author": "Oleg Fedak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olegfedak/eleventy-plugin-relate-collections/issues"
+  },
+  "homepage": "https://github.com/olegfedak/eleventy-plugin-relate-collections#readme"
+}
