@@ -52,7 +52,7 @@ eleventyConfig.addPlugin(relateCollections, {
 
 Now, you can create relationships between the "authors" and "posts" collections. In your "authors" collection data files, an empty related field will be created to store the related content from the "posts" collection:
 
-```json
+```json5
 related: {
   name: 'posts',
   items: [] // Related pages from "posts"
