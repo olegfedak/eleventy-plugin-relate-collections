@@ -87,6 +87,12 @@ This example demonstrates how to use Liquid or Nunjucks to display related data 
 
 This Eleventy Plugin Relate Collections is conceived and designed by Oleg Fedak, who is the brain behind the concept and the designer responsible for its development. The implementation, including code and development, is carried out with the assistance of Chat GPT, an AI language model.
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/olegfedak">
+    <img src="coffeeButton.png" alt="Coffee Sponcor button" width="250" height="auto">
+  </a>
+</div>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
